@@ -1,0 +1,21 @@
+.icon {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 50px;
+  gap: 1rem;
+}
+
+.fb:hover,
+.insta:hover,
+.twitter:hover,
+.pinterest:hover,
+.yt:hover,
+.linked:hover {
+  color: #83b692;
+  cursor: pointer;
+}
+
+ul{
+    display: inline-block;
+    color: black;
+}
