@@ -49,6 +49,9 @@ function Nav() {
               <Link to="/login">
                 <AccountCircleIcon />
               </Link>
+              <Link to="/signup" className="signup">
+              Sign up
+              </Link>
               <Link to="/cart">
                 <FavoriteIcon />
               </Link>

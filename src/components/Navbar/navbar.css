@@ -44,4 +44,8 @@ a {
   font-size: 40px;
 }
 
-
+.signup {
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+}
